@@ -1,0 +1,60 @@
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+    margin: 0%;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+   padding: 10px 15px;
+   float: right;
+   padding-bottom: 40px;
+}
+h1{
+    font-size: 50px;
+}
+.span{
+    color: orangered;
+}
+.ankor{
+    color: whitesmoke;
+    text-decoration: none;
+    background:rgb(255, 72, 0);
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+/* sob kokar por dekhlm lekha guma te margin ni*/
+.half-width{
+    margin-left: 5%;
+    padding-left: 2%;
+    width: 40%;
+    float: left;
+} 
+.half-width img{
+    width: 100%;
+}
+.s1{
+    height: 300px;
+    padding-bottom: 200px;
+   
+}
+.ankor2{
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5%;
+    background-color: rgb(255, 72, 0);
+}
+.s2{
+    height: 400px;
+    padding-bottom: 180px;
+   
+}
+.s3 h1{
+    text-align: center;
+}
+.s3::before{
+    display: table;
+    clear: both;
+
+}
